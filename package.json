@@ -1,0 +1,26 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "main": "10-fs-sync.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmahmoudifar/leetcode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fmahmoudifar/leetcode/issues"
+  },
+  "homepage": "https://github.com/fmahmoudifar/leetcode#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
