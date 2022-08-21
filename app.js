@@ -25,5 +25,5 @@ var twoSum = function (nums, target) {
   console.log(tempArr);
 
   console.log(nums);
-  // return nums
+  return nums;
 };
